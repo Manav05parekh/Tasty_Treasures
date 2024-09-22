@@ -16,4 +16,7 @@ Welcome to the **Cute Recipe App**, a delightful web application that allows use
 - Frontend: React.js
 - Styling: Tailwind CSS
 
-  
+
+![Screenshot of the app](https://github.com/Manav05parekh/Tasty_Treasures/blob/main/Screenshot%20(159).png)
+![Screenshot of the app](https://github.com/Manav05parekh/Tasty_Treasures/blob/main/Screenshot%20(160).png)
+![Screenshot of the app](https://github.com/Manav05parekh/Tasty_Treasures/blob/main/Screenshot%20(161).png)

@@ -2,6 +2,8 @@
 
 # Cute Recipe App
 
+Netlify Hosting Link : - https://tasty-treasuress4ds.netlify.app/
+
 Welcome to the **Cute Recipe App**, a delightful web application that allows users to discover, share, and save their favorite recipes! 
 
 1. Features
